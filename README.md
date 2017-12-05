@@ -6,3 +6,5 @@ Frist Git project for Test git function
 #second
 
 branch master
+
+branch A1 modified
