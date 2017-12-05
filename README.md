@@ -8,3 +8,5 @@ Frist Git project for Test git function
 branch master
 
 branch A1 modified
+
+branch A1 modified2
